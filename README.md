@@ -15,6 +15,7 @@ Log to file in current directory.
 Add `log.js` in file which you want to append log and then run with `node` command
 
 Parameter no.
+
 1. Directory path
 2. Log file
 3. Contents
